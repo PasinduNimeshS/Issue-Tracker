@@ -29,7 +29,6 @@ A full-stack issue tracking web application with **CRUD operations**, user authe
 - Redux for efficient state management (auth + issues)
 - Export issue list to CSV and JSON
 - Polished UI/UX with reusable components and animations
-- Deployed frontend (Netlify) and backend (Render) with live demo
 
 ## Technologies Used
 
